@@ -1,6 +1,6 @@
 # Install and configuration quide for Zabbix 6.0.4
 
-Monitoring Software Open Source on Ubuntu 20.04 Server \
+Monitoring Software Open Source for your IT Infrastrukture and more on Ubuntu 20.04 Server \
 For more Info - https://www.zabbix.com/ \
 
 

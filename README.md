@@ -4,7 +4,7 @@ Monitoring Software Open Source on Ubuntu 20.04 Server \
 For more Info - https://www.zabbix.com/ \
 
 
-Start the script in give the Enter Password = Pasword 
+Copy this Sctript and start this script in give the Enter Password = Pasword 
 The Zabbix is Installed \
 Now got htpp://yourIP/zabbix
 DB: zabbix \
